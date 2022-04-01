@@ -33,3 +33,5 @@
     <h4>Gracias por visitarno</h4>
     @parent
 @stop
+
+<hr>
